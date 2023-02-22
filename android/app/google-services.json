@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102994774098",
+    "project_id": "healthcare-b2767",
+    "storage_bucket": "healthcare-b2767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102994774098:android:0690b8e525eab0b9a4378b",
+        "android_client_info": {
+          "package_name": "com.khaledbecher.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102994774098-nkjl694ksvp7laeoosi1ohjbsuv28jk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA225riyHmrER3v5s1OSAHzilbuhBgaAQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102994774098-nkjl694ksvp7laeoosi1ohjbsuv28jk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
